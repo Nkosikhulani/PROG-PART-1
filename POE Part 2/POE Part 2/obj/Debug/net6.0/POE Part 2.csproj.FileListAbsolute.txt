@@ -1,0 +1,15 @@
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\POE Part 2.csproj.AssemblyReference.cache
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\POE Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\POE Part 2.AssemblyInfoInputs.cache
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\POE Part 2.AssemblyInfo.cs
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\POE Part 2.csproj.CoreCompileInputs.cache
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\bin\Debug\net6.0\POE Part 2.exe
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\bin\Debug\net6.0\POE Part 2.deps.json
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\bin\Debug\net6.0\POE Part 2.runtimeconfig.json
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\bin\Debug\net6.0\POE Part 2.dll
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\bin\Debug\net6.0\POE Part 2.pdb
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\POE Part 2.dll
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\refint\POE Part 2.dll
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\POE Part 2.pdb
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\POE Part 2.genruntimeconfig.cache
+C:\Users\Khula\source\repos\POE Part 2\POE Part 2\obj\Debug\net6.0\ref\POE Part 2.dll
